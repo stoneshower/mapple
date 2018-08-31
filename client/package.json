@@ -13,9 +13,9 @@
     "react-slick": "^0.23.1",
     "recompose": "^0.27.1",
     "slick-carousel": "^1.8.1",
-    "postinstall": "npm install"
   },
   "scripts": {
+    "postinstall": "npm install",
     "start": "HTTPS=true react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
